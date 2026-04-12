@@ -8,7 +8,7 @@ Esteban David Gomez Serna, Emily Dayana Solano García, Juan Andrés Quinche Gar
 
 Materia: Estructuras de Información
 
-Fecha: 6 de Abril 2026
+Fecha: 13 de Abril 2026
 
 
 ## ✨ Características Principales 
