@@ -3,9 +3,12 @@
 Este proyecto es una herramienta web interactiva desarrollada para el taller **"Manipulación Avanzada de Estructuras de Datos (Tablas)"**. Permite cargar, visualizar y manipular conjuntos de datos en formato JSON completamente en memoria y en tiempo real, utilizando únicamente tecnologías web estándar (sin frameworks adicionales).
 
 Desarrollado por: Nicolás Esguerra Castro,
+
 Esteban David Gomez Serna, Emily Dayana Solano García, Juan Andrés Quinche García.
+
 Materia: Estructuras de Información
-Fecha: 13 de Abril 2026
+
+Fecha: 6 de Abril 2026
 
 
 ## ✨ Características Principales 
