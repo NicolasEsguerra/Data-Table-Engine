@@ -3,5 +3,20 @@
   { "id": 2, "nombre": "Luis Pérez", "edad": 22, "nota": 2.8 },
   { "id": 3, "nombre": "Carlos Ruiz", "edad": 21, "nota": 3.9 },
   { "id": 4, "nombre": "Marta Díaz", "edad": 19, "nota": 4.1 },
-  { "id": 5, "nombre": "Jorge Luna", "edad": 23, "nota": 3.0 }
+  { "id": 5, "nombre": "Juan Quinche", "edad": 23, "nota": 3.5 },
+  { "id": 6, "nombre": "Angel Leal", "edad": 32, "nota": 2.8 },
+  { "id": 7, "nombre": "Carla Ramirez", "edad": 21, "nota": 2.9 },
+  { "id": 8, "nombre": "Melba García", "edad": 24, "nota": 2.1 },
+  { "id": 9, "nombre": "Wilson Torres", "edad": 26, "nota": 1.5 },
+  { "id": 10, "nombre": "Sara Florez", "edad": 18, "nota": 5 },
+  { "id": 11, "nombre": "Alison Arias", "edad": 19, "nota": 3.2 },
+  { "id": 12, "nombre": "Leidy Velandia", "edad": 19, "nota": 4.1 },
+  { "id": 13, "nombre": "Karol Mosos", "edad": 20, "nota": 5 },
+  { "id": 14, "nombre": "Anggela Gomez", "edad": 21, "nota": 4.8 },
+  { "id": 15, "nombre": "Zaira Pérez", "edad": 20, "nota": 3.9 },
+  { "id": 16, "nombre": "Emily Dayana", "edad": 19, "nota": 5 },
+  { "id": 17, "nombre": "Estaban Gómez", "edad": 18, "nota": 4.8 },
+  { "id": 18, "nombre": "Luisa Morera", "edad": 18, "nota": 3.5 },
+  { "id": 19, "nombre": "Valentina Gomez", "edad": 19, "nota": 4.6 },
+  { "id": 20, "nombre": "Nicolás Esguerra", "edad": 17, "nota": 4.8 }
 ]
